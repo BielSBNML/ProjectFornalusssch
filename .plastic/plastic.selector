@@ -1,0 +1,4 @@
+repository "ProectFornalutx@enqurko@cloud"
+  path "/"
+    br "/main"
+    co "/main"
